@@ -6,4 +6,11 @@ public class Testclass_2 {
     public void tesatcase_2(){
         System.out.println("Testcase two result");
     }
+
+    @Test
+    public void tesatcase_3(){
+        System.out.println("Testcase three result");
+    }
+
 }
+
