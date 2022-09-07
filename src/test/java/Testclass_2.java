@@ -8,7 +8,7 @@ public class Testclass_2 {
     }
 
     @Test
-    public void tesatcase_3(){
+    public void tesatcase_4(){
         System.out.println("Testcase three result");
     }
 
